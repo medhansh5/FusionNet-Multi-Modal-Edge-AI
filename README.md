@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.20072787
+
 # FusionNet: Multi-Modal Edge AI for Road Hazard Detection
 
 FusionNet is a real-time framework designed to protect motorcycle riders by detecting potholes and hazards through a fusion of vision (YOLOv8) and inertial telemetry (C++ SOS Butterworth Filters). Optimized for Ghaziabad, India road conditions with Royal Enfield Classic 350 engine vibration filtering.
