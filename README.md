@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20072787.svg)](https://doi.org/10.5281/zenodo.20072787)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20971224.svg)](https://doi.org/10.5281/zenodo.20971224)
 
 # FusionNet: Multi-Modal Edge AI for Road Hazard Detection
 
